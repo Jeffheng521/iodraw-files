@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c0rdsqOqt_oYKN-S6gXP-6" value="云层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="c0rdsqOqt_oYKN-S6gXP-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="152" y="170" width="120" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="c0rdsqOqt_oYKN-S6gXP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="238" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
