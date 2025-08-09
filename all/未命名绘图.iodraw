@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vYhB2h6RCiTOfgzg8jNA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.97;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="147" y="135" as="sourcePoint" />
-            <mxPoint x="256.54999999999995" y="135" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="vYhB2h6RCiTOfgzg8jNA-3" value="&lt;div class=&quot;stage&quot; style=&quot;flex: 1 1 0%; border: 2px solid rgb(231, 76, 60); padding: 25px 20px; background: linear-gradient(135deg, rgb(250, 219, 216) 0%, rgb(241, 148, 138) 100%) rgb(255, 255, 255); text-align: center; border-radius: 8px; transition: transform 0.3s; min-height: 280px; display: flex; flex-direction: column; justify-content: flex-start; color: rgb(0, 0, 0); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;stage-content&quot; style=&quot;font-size: 22px; line-height: 1.7; color: rgb(52, 73, 94); flex-grow: 1;&quot;&gt;随着&lt;span class=&quot;highlight&quot; style=&quot;font-weight: bold; color: rgb(44, 62, 80); background: rgba(255, 255, 255, 0.9); padding: 4px 8px; border-radius: 5px; font-size: 24px; display: inline-block; margin: 2px;&quot;&gt;低空经济、空天地一体化通信和智慧城市&lt;/span&gt;等新兴产业快速发展，各类平台持续产生&lt;span class=&quot;highlight&quot; style=&quot;font-weight: bold; color: rgb(44, 62, 80); background: rgba(255, 255, 255, 0.9); padding: 4px 8px; border-radius: 5px; font-size: 24px; display: inline-block; margin: 2px;&quot;&gt;多模态数据&lt;/span&gt;——图像、视频、文本、结构化信息、传感器信号、通信状态信息。&lt;/div&gt;&lt;/div&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="126.5" width="240" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
