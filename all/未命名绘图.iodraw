@@ -10,10 +10,10 @@
         <mxCell id="vYhB2h6RCiTOfgzg8jNA-1" value="数据多样化现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="145" y="101" width="115" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="vYhB2h6RCiTOfgzg8jNA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1.03;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vYhB2h6RCiTOfgzg8jNA-1">
+        <mxCell id="vYhB2h6RCiTOfgzg8jNA-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="133" as="sourcePoint" />
-            <mxPoint x="224" y="133" as="targetPoint" />
+            <mxPoint x="328" y="223" as="sourcePoint" />
+            <mxPoint x="439" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
