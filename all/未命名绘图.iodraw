@@ -1,0 +1,13 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="p44Y2nEC68L5V-_Kvvmz">
+    <mxGraphModel dx="794" dy="458" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pzreHhNa0Q8G3oxo_iP9-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 17px; background-color: rgb(126, 166, 224);&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;文本编码&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;background-color: rgb(126, 166, 224);&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;将输入的文本描述转换为模型可理解的&lt;/span&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;数值化&lt;/span&gt;&lt;span style=&quot;font-family: Georgia;&quot;&gt;特征向量&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;align=left;fillColor=#7EA6E0;" parent="1" vertex="1">
+          <mxGeometry x="88" y="174" width="102" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
