@@ -4,16 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pzreHhNa0Q8G3oxo_iP9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=2;align=left;fillColor=#f8cecc;arcSize=17;" parent="1" vertex="1">
-          <mxGeometry x="132" y="94" width="137" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="vYhB2h6RCiTOfgzg8jNA-1" value="数据多样化现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="145" y="101" width="115" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="vYhB2h6RCiTOfgzg8jNA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.97;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vYhB2h6RCiTOfgzg8jNA-1">
+        <mxCell id="vYhB2h6RCiTOfgzg8jNA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.97;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="147" y="135" as="sourcePoint" />
-            <mxPoint x="258" y="135" as="targetPoint" />
+            <mxPoint x="256.54999999999995" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
