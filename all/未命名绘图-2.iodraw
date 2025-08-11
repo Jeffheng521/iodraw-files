@@ -95,7 +95,10 @@
           <mxGeometry x="-2812" y="1655" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-31" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;材质类型&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2710" y="1656" width="94" height="30" as="geometry" />
+          <mxGeometry x="-2712" y="1656" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h39Ga_bJBTxK7CeNzt95-32" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;材质类型&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="1656" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
