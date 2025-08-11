@@ -67,8 +67,8 @@
         <mxCell id="h39Ga_bJBTxK7CeNzt95-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF9FA;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-2950" y="1595" width="482" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="h39Ga_bJBTxK7CeNzt95-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2784" y="1483" width="146" height="32" as="geometry" />
+        <mxCell id="h39Ga_bJBTxK7CeNzt95-18" value="视觉帧序列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2794" y="1479" width="146" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
