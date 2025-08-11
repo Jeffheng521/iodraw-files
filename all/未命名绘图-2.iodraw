@@ -76,8 +76,8 @@
         <mxCell id="h39Ga_bJBTxK7CeNzt95-20" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;16 fps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2947" y="1566" width="46" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="h39Ga_bJBTxK7CeNzt95-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2734" y="1605" width="60" height="30" as="geometry" />
+        <mxCell id="h39Ga_bJBTxK7CeNzt95-24" value="位置 (x,y)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2917" y="1624" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
