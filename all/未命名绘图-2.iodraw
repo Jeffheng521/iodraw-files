@@ -89,15 +89,15 @@
           <mxGeometry x="-2609" y="1622" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-29" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;弹性系数 (&lt;i&gt;e&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;)&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2912" y="1654" width="94" height="30" as="geometry" />
+          <mxGeometry x="-2914" y="1651" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-30" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;摩擦系数 (&lt;i&gt;μ&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;)&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2812" y="1655" width="94" height="30" as="geometry" />
+          <mxGeometry x="-2810" y="1652" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-31" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;材质类型&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2712" y="1656" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h39Ga_bJBTxK7CeNzt95-32" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;材质类型&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h39Ga_bJBTxK7CeNzt95-32" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;时间戳&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2610" y="1656" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
