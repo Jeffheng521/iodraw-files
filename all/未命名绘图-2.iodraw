@@ -71,7 +71,7 @@
           <mxGeometry x="-2794" y="1479" width="146" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#67ab9f&quot;&gt;逐帧物理标签&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2794" y="1592" width="146" height="32" as="geometry" />
+          <mxGeometry x="-2792" y="1597" width="146" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-20" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;16 fps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2947" y="1566" width="46" height="19" as="geometry" />
@@ -95,10 +95,10 @@
           <mxGeometry x="-2810" y="1652" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-31" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;材质类型&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2712" y="1656" width="94" height="30" as="geometry" />
+          <mxGeometry x="-2711" y="1652" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h39Ga_bJBTxK7CeNzt95-32" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;时间戳&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2610" y="1656" width="94" height="30" as="geometry" />
+          <mxGeometry x="-2610" y="1653" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
