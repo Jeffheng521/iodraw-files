@@ -76,6 +76,9 @@
         <mxCell id="h39Ga_bJBTxK7CeNzt95-20" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;16 fps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2947" y="1566" width="46" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="h39Ga_bJBTxK7CeNzt95-21" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;16 fps&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2937" y="1576" width="46" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
